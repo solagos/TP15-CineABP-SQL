@@ -2,7 +2,7 @@ TP15-CineABP-SQL
 
 Trabajo Práctico Nº15 – Consultas SQL – Modelo CineABP
 
-Alumno:Ezequiel Anaya  
+Alumno:Sol guimenez
 Curso: 6°E  
 
 Objetivo del Trabajo
